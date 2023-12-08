@@ -28,8 +28,8 @@ The chatbot is designed to respond to the following questions:
 ## Folder Structure
 
 - `index.html`: The main HTML file containing the chatbot interface.
-- `style.css`: CSS file for styling the chatbot interface.
-- `script.js`: JavaScript file for handling chatbot logic and responses.
+- `chatbot.css`: CSS file for styling the chatbot interface.
+- `chatbot.js`: JavaScript file for handling chatbot logic and responses.
 
 ## Contributing
 
